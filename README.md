@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently on a learning journey with Laravel and React.<br>I love experimenting, building, and improving my projects while growing into a more skilled full-stack developer.
+Currently on a learning journey with Laravel and React(UPDATE COMING SOON (added on 19-6-2026)).<br>I love experimenting, building, and improving my projects while growing into a more skilled full-stack developer.
 
 
 ## 🌐 Socials:
