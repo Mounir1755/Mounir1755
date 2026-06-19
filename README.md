@@ -1,6 +1,7 @@
+i have been making commits on gitlab for a while, but im back!
+
 # 💫 About Me:
 Currently on a learning journey with Laravel and React(UPDATE COMING SOON (added on 19-6-2026)).<br>I love experimenting, building, and improving my projects while growing into a more skilled full-stack developer.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mounir_balikane)
